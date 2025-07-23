@@ -1,0 +1,10 @@
+O que funcionou bem:
+- Organização das branchs facilitou o versionamento
+- Uso do GitHub manteve o controle das versões atualizado
+
+O que não funcionou bem:
+- Dificuldade inicial com os comandos Git
+
+Melhorias:
+- Praticar mais comandos Git no terminal
+- Planejar melhor o tempo para as tarefas
