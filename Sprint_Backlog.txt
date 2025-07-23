@@ -1,0 +1,38 @@
+
+Sprint Backlog
+Sprint: Atual
+Equipe: Desenvolvimento Ágil – SCRUM
+Desenvolvedor responsável: Gabriel
+
+Objetivo do Sprint
+Implementar as histórias de usuário priorizadas (ID 1 e ID 3), conforme definição na reunião de Sprint Planning, utilizando controle de versão via Git/GitHub.
+
+Histórias de Usuário Selecionadas
+
+ID | Descrição da História                                                                 | Arquivo relacionado | Esforço estimado
+---|----------------------------------------------------------------------------------------|---------------------|------------------
+1  | Como visitante do site, quero visualizar os nomes dos veículos em azul                | index.html          | 2 pontos
+   | para facilitar a leitura e destacar os modelos.                                        |                     |
+3  | Como visitante do site, quero que os links da página de contato tenham descrições     | contato.html        | 1 ponto
+   | mais claras para entender melhor o conteúdo.                                           |                     |
+
+Tarefas Planejadas
+
+Para a História 1 – Alteração no index.html:
+- Criar branch index
+- Editar o arquivo para alterar a cor dos nomes dos veículos para azul (#0000AA)
+- Validar visualmente as alterações
+- Commit das mudanças
+- Fazer merge com a branch principal (main)
+- Push para o repositório remoto
+
+Para a História 3 – Alteração no contato.html:
+- Criar branch contato
+- Editar os textos dos links da página de contato
+- Validar visualmente as alterações
+- Commit das mudanças
+- Fazer merge com a branch principal (main)
+- Push para o repositório remoto
+
+Tempo Total Estimado
+3 pontos de esforço (estimativa total do sprint)
